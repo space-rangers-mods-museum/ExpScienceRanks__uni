@@ -92,7 +92,7 @@ acquire:
 | DATA/ShipTail/UnknownShipNormal.gai  | 41dba78604d0746721a0c81c5e63004b90e68217c8f1b54834ddba0241c3f12a |
 | ModuleInfo.txt                       | 8517a686efafab281111d0106d74a391e91f1c048be5682562927ff8df54d45a |
 
-> Final archive: [`ExpScienceRanks.zip`](https://github.com/space-rangers-mods-museum/ExpScienceRanks__uni/releases/download/v1.0.0/ExpScienceRanks.zip) · SHA-256 `386f64b71d7f28be80dc97dde4ed67ed14a4599817eeef6278cb7940ede8ed05`
+> Final archive: [`ExpScienceRanks.zip`](https://github.com/space-rangers-mods-museum/ExpScienceRanks__uni/releases/download/v1.0.0/ExpScienceRanks.zip) · SHA-256 `c11acd9d4ea51e9e22305ac65d9d888b8e39f23eebc3b863a63a4c8c4cf12d5e`
 
 ---
 
